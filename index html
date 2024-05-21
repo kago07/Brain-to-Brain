@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain to Brain Tutoring Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Brain to Brain Tutoring Services</div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about-us">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h1>Empowering Minds, One Student at a Time</h1>
+        <p>Personalized Tutoring in Math, Science, and Language Arts</p>
+        <a href="#contact" class="cta-button">Get Started Today</a>
+    </section>
+
+    <section class="introduction">
+        <h2>Welcome to Brain to Brain Tutoring Services</h2>
+        <p>At Brain to Brain, we believe every student has the potential to excel. Our dedicated tutors provide personalized, high-quality tutoring to help students achieve their academic goals and build confidence.</p>
+    </section>
+
+    <section id="services" class="services-preview">
+        <h2>Our Services</h2>
+        <div class="service">
+            <img src="one-on-one-icon.png" alt="One-on-One Tutoring">
+            <h3>One-on-One Tutoring</h3>
+            <p>Personalized sessions tailored to individual learning needs.</p>
+        </div>
+        <div class="service">
+            <img src="group-tutoring-icon.png" alt="Group Tutoring">
+            <h3>Group Tutoring</h3>
+            <p>Small group sessions for collaborative learning experiences.</p>
+        </div>
+        <div class="service">
+            <img src="online-tutoring-icon.png" alt="Online Tutoring">
+            <h3>Online Tutoring</h3>
+            <p>Flexible and convenient virtual tutoring sessions.</p>
+        </div>
+    </section>
+
+    <section id="testimonials" class="testimonials">
+        <h2>What Our Students Say</h2>
+        <blockquote>
+            <p>"Brain to Brain Tutoring Services helped my son improve his math grades significantly. The personalized attention made all the difference!"</p>
+            <cite>- Parent</cite>
+        </blockquote>
+        <blockquote>
+            <p>"I struggled with science until I started sessions with Brain to Brain. Now, I understand the concepts and enjoy the subject!"</p>
+            <cite>- Student</cite>
+        </blockquote>
+    </section>
+
+    <footer>
+        <p>Contact Us: info@braintobraintutoring.co.za | +27 12 345 6789</p>
+        <ul class="social-media">
+            <li><a href="https://www.facebook.com/braintobraintutoring">Facebook</a></li>
+            <li><a href="https://www.instagram.com/braintobraintutoring">Instagram</a></li>
+        </ul>
+        <ul class="quick-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <p>&copy; 2024 Brain to Brain Tutoring Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
